@@ -1,2 +1,2 @@
 var name = "some-name"
-console.log("Some message to print")
+console.log("Some message from Javascript file")
